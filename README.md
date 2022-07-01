@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer
 
 * 🌍  I'm based in Kolkata, India
 * ✉️  You can contact me at [bikashd003@gmail.com](mailto:bikashd003@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning Reactjs
 
 * Skills
 
@@ -20,7 +20,6 @@ I'm a Full Stack Web Developer
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
 

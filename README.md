@@ -41,7 +41,7 @@ I'm passionate about Full Stack Developer
 ---
 
   <div align="center">
-  <img height="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
+  <img height="350" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1380&t=st=1706973962~exp=1706974562~hmac=303d698f375e3c8a4ad5cbf543ccf9344c096e7694e0251123ce50afd60619d9"  />
 </div>
 
 ---

@@ -55,5 +55,5 @@ I'm passionate about Full Stack Developer
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bikashd003&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bikashd003&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 

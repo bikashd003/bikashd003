@@ -1,5 +1,5 @@
 Hi 👋 My name is Bikash Das
-I'm passionate about Full Stack Developer
+I'm Software Development Engineer
 ------------------------------
 
 * 🌍  I'm based in Kolkata, India
